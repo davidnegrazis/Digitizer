@@ -9,7 +9,7 @@ The players can also use points to purchase static turrets, upgrade powerups, an
 In order to play two-player, the second player must attach an Xbox controller (or use another controller with additional software to emulate an Xbox controller).
 
 ### How to get playing
-Download the `PlayDigitzer` zip folder, unzip it, and run `digitizer.exe` to play!
+Download the `PlayDigitizer` zip folder, unzip it, and run `digitizer.exe` to play!
 
 ### Pictures
 _Two-player mode; a player has the shield powerup_
